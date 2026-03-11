@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'PixelifySans';
+  src: local('PixelifySans'), url(./fonts/PixelifySans.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Sixtyfour';
+  src: local('Sixtyfour'), url(./fonts/Sixtyfour.ttf) format('truetype');
+}
